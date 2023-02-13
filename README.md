@@ -3,7 +3,7 @@
 
 ### BIO
 🧑‍🦰 My name is Roberto, I'm 21 years old.<br>
-📍 Italy, Palermo<br><br>
+📍 Italy, Palermo<br>
 💻 Lenguages
   > Python - Java - Dart - C++<br>
   
