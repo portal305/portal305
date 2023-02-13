@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there 👋</h3>
 <p align="center"><a href="https://github.com/portal305"><image align="center" src="https://raw.githubusercontent.com/milaan9/milaan9/main/catfly.gif" height="100px" width="100px"></a></p>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F3CFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile;My+name+is+Roberto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F3CFF&center=true&vCenter=true&width=990&lines=Welcome+to+my+profile;My+name+is+Roberto)](https://git.io/typing-svg)
 
 <hr>
   
