@@ -5,7 +5,7 @@
 ### BIO
 🧑‍🦰 My name is Roberto, I'm 21 years old.<br>
 📍 Italy, Palermo<br>
-💻 Python - Java - Dart - C++
+💻 Python - Java - Dart - C++<br>
 🕹️ Into RetroGaming
   
 ### NOW
