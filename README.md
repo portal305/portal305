@@ -6,7 +6,7 @@
 📍 Italy, Palermo<br>
 💻 Lenguages
   > Python - Java - Dart - C++<br>
-  
+
 🕹️ Into RetroGaming
   > GB - GBA - NDS - 3DS - PSP - PS1 and other<br>
 
@@ -15,7 +15,12 @@
 ### NOW
 
 🎮 Currently developing Switched, a Frontend Emulator with a Switch like theme in Flutter.
-<p align="center"><image align="center" src="https://amazeballs.co.za/wp-content/uploads/2017/12/Logo-Animation-1.gif" height="80px" width="80px"></p>  
+<p align="center">
+  <a href="https://github.com/portal305">
+    <image align="center" src="https://amazeballs.co.za/wp-content/uploads/2017/12/Logo-Animation-1.gif" height="80px" width="80px">
+  </a>
+</p>
+
 <br>
 <hr>
   
