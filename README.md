@@ -16,7 +16,7 @@
 
 🎮 Currently developing Switched, a Frontend Emulator with a Switch like theme in Flutter.
 <p align="center"><image align="center" src="https://amazeballs.co.za/wp-content/uploads/2017/12/Logo-Animation-1.gif" height="80px" width="80px"></p>  
-<br>
+
 <hr>
   
 ### BYE
