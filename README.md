@@ -38,7 +38,7 @@
 ![GBC](https://img.shields.io/badge/Gameboy%20Color-0D1117?style=flat)&nbsp;
 ![NDS](https://img.shields.io/badge/Nintendo%20DS-0D1117?style=flat)&nbsp;
 ![3DS](https://img.shields.io/badge/Nintendo%203DS-0D1117?style=flat)&nbsp;
-![PSP](https://img.shields.io/badge/PlayStation%20Portalble-0D1117?style=flat)&nbsp;
+![PSP](https://img.shields.io/badge/PlayStation%20Portable-0D1117?style=flat)&nbsp;
 ![PS1](https://img.shields.io/badge/Playstation-0D1117?style=flat)&nbsp;
 ![Other](https://img.shields.io/badge/Other-red?style=flat)&nbsp;
 
