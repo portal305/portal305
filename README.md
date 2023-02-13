@@ -3,7 +3,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=20&color=8F3CFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;My+name+is+Roberto)](#)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&size=25&color=8F3CFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile;My+name+is+Roberto)](#)
 </div>
 
 <hr>
