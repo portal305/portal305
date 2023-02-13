@@ -1,6 +1,7 @@
 <h3 align="center"> Hi there 👋 Welcome to my profile </h3>
 <p align="center"><a href="https://github.com/portal305"><image align="center" src="https://raw.githubusercontent.com/milaan9/milaan9/main/catfly.gif" height="100px" width="100px"></a></p>
 
+<hr>
 <h3><image align="center" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/handshake.gif" height="30px" width="50px">  BIO</h3>
 
 🧑‍🦰 My name is Roberto, I'm 21 years old.<br>
