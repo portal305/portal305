@@ -27,5 +27,5 @@
 <br>
 <hr>
   
-### BYE
+<h3><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> BYE</h3>
 ⚒️ Be sure to check my profile for new updates on my projects
